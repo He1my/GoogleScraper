@@ -1,6 +1,6 @@
 # GoogleScraper - A simple module to scrape and extract links from Google. 
 
-### What does GoogleScraper?
+### What is GoogleScraper?
 
 GoogleScraper parses Google search engine results easily and in a performant way. It allows you to extract all found
 links and their titles and descriptions programmatically which enables you to process it further.
